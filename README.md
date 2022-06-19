@@ -1,6 +1,6 @@
 <h1 align="center">Graphic Computation Project 2022</h1>
 
-This project was done in 2022 with an educational purpose for the Graphic Computation lecture in Instituto Superior Técnico. The work was divided into 3 deliveries to which we ended with an overall X grade for all deliveries together.
+This project was done by a group of 3 in 2022 with an educational purpose for the Graphic Computation lecture in Instituto Superior Técnico. The work was divided into 3 deliveries to which we ended with an overall X grade for all deliveries together.
 
 We used HTML for the indexes and mainly JavaScript (using THREE.js) for all the different deliveries.
 
