@@ -1,10 +1,5 @@
 <h1 align="center">CG Project - First Delivery</h1>
 
-Work done by G22 - Alameda:    
-- Filipe Neves, #87318
-- Miguel Cunha, #95832
-- Duarte Pais, #96194
-
 This project was done using the Kandinsky painting also sent in this folder as reference (see ReferenceKandinsky.png).
 
 --------------------------------
