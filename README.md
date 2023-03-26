@@ -1,4 +1,4 @@
-<h1 align="center">CG Artwork Project 2022</h1>
+<h1 align="center">CG Artwork Project</h1>
 
 This project was done by a group of 3 in 2022 with an educational purpose for the CG Artwork lecture in Instituto Superior Técnico. The work was divided into 3 deliveries to which we ended with an overall **A grade** (17.3 out of 20) for all deliveries together.
 
